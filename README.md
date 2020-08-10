@@ -1,3 +1,3 @@
-# 初めてのGitなのです
+# 初めてのGit with TA
 
 Gitはいいぞ
